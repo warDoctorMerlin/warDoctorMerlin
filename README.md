@@ -4,7 +4,7 @@ encrypt data are, and I enjoy working out how they work and even better programm
 - 🌱 I’m currently learning how to become a better programmer through doing various challenges, and reading books on Python and Java. I'm also learning about ethical hacking and
 how to do it as a future career.
 - 💞️ I’m looking to collaborate on different projects that are relevant to real life problems.
-- 📫 How to reach me ...
+- 📫 You can reach me via my email hagenmcg@hotmail.com
 
 <!---
 warDoctorMerlin/warDoctorMerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
